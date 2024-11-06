@@ -1,6 +1,6 @@
 # Gerador de Captcha em Python
 
-Este projeto é um exemplo simples de como gerar imagens de CAPTCHA em Python usando a biblioteca `captcha`. Ele cria uma imagem CAPTCHA com o texto escolhido e salva a imagem em um arquivo PNG.
+Este projeto é um exemplo simples de como gerar imagens de CAPTCHA em Python usando a biblioteca `captcha`. Ele cria uma imagem CAPTCHA com o texto escolhido e salva a imagem em um arquivo __PNG__.
 
 ## Requisitos
 
